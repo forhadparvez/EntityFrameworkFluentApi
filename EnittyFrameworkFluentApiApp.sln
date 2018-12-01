@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnittyFrameworkFluentApiApp", "EnittyFrameworkFluentApiApp\EnittyFrameworkFluentApiApp.csproj", "{92305DB5-5BDD-4A8A-B97E-9D7B107787A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92305DB5-5BDD-4A8A-B97E-9D7B107787A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92305DB5-5BDD-4A8A-B97E-9D7B107787A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92305DB5-5BDD-4A8A-B97E-9D7B107787A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92305DB5-5BDD-4A8A-B97E-9D7B107787A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504326E1-A8F5-420D-A705-8FBDDCD3D1A8}
+	EndGlobalSection
+EndGlobal
